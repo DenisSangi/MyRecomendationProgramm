@@ -1,2 +1,1 @@
-# MyRecomendationProgramm
-CS101 learning project
+This is the Portfolio project for CS101 Trees and Graphs part
